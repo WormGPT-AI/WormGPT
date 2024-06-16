@@ -12,7 +12,7 @@ There is a trial period in our bot
 
 Telegram Channel: https://t.me/wormgptblog
 
-WebSite: wormgpt.com.co
+WebSite: https:/wormgpt.com.co
 
 bot trial: https://t.me/wormgptbuy_bot
 
